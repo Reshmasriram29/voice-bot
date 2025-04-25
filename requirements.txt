@@ -1,0 +1,14 @@
+streamlit
+SpeechRecognition
+pyttsx3
+google-generativeai
+python-dotenv
+pyaudio
+streamlit
+SpeechRecognition
+pyttsx3
+google-generativeai
+python-dotenv
+pyaudio
+requests
+beautifulsoup4
